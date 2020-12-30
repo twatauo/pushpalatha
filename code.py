@@ -85,4 +85,4 @@ def modify(key,value):
             l=[]
             l.append(value)
             l.append(b[1])
-            d[key]=l
+            d[key]=1
